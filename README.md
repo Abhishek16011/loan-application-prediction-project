@@ -1,1 +1,1 @@
-# loan-application-prediction-project
+# Loan-Application-Status-Prediction-project
